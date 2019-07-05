@@ -12,6 +12,7 @@ install:
   - tar -xaf emacs-bin-${EMACS_VERSION}.tar.gz -C /
   - export PATH=/tmp/emacs/bin/emacs:${PATH}
   - export EMACS=/tmp/emacs/bin/emacs
+  - export
   - emacs --version
   - whereis emacs
   # Cask
