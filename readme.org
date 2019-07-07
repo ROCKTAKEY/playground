@@ -1,2 +1,2 @@
-[[http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg?style=flat-square]]
-[[http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg]]
+[[github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg?style=flat-square]]
+[[github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg]]
