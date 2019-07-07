@@ -1,1 +1,2 @@
 [[http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg?style=flat-square]]
+[[http://melpa.milkbox.net/packages/ido-flex-with-migemo.svg]]
