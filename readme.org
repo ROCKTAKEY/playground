@@ -1,5 +1,5 @@
-[[github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.org/packages/ido-flex-with-migemo.svg?style=flat-square]]
-[[github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.org/packages/ido-flex-with-migemo.svg]]
+[[https://github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.org/packages/ido-flex-with-migemo-badge.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/ido-flex-with-migemo][http://melpa.org/packages/ido-flex-with-migemo-badge.svg]]
 
-[[github.com/ROCKTAKEY/ido-flex-with-migemo][file:http://melpa.org/packages/ido-flex-with-migemo.svg?style=flat-square]]
-[[github.com/ROCKTAKEY/ido-flex-with-migemo][file:http://melpa.org/packages/ido-flex-with-migemo.svg]]
+[[https://github.com/ROCKTAKEY/ido-flex-with-migemo][file:http://melpa.org/packages/ido-flex-with-migemo-badge.svg?style=flat-square]]
+[[https://github.com/ROCKTAKEY/ido-flex-with-migemo][file:http://melpa.org/packages/ido-flex-with-migemo-badge.svg]]
